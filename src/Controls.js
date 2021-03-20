@@ -13,6 +13,7 @@ class Controls extends PureComponent {
         <button onClick={this.props.handleAddTimer}>Add New Timer</button>
       </div>
     );
+    
   }
 
 
